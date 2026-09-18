@@ -30,8 +30,6 @@ This is a very fun project in many ways; it felt like an adult version of LEGOs.
 
 ## What are the necessary components?
 
-Due to the modular approach and the reuse of standard off-the-shelf step-down modules, this is one of the cleanest hardware setups for a DIY bench supply.
-
 ### 3D Printed & Mechanical Parts
 * **Enclosure:** Old Corsair ATX power supply case[cite: 1]. The original steel chassis provides rigid physical protection, integrated ventilation cutouts, and chassis grounding[cite: 1, 2].
 * **Front, Side & Rear Panels:** 3D-printed faceplates (or plywood) designed to mount into the original cable-exit opening of the PSU[cite: 1].
