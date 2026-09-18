@@ -8,7 +8,7 @@ This is a very fun project in many ways, and it is intended for:
 * Everyone with an old PC power supply unit (PSU) and the motivation to create something cool :D[cite: 1].
 
 <p align="center">
-  <img src="docs/images/banner.jpg" width="750">
+  <img src="docs/images/banner.jpeg" width="750">
 </p>
 
 ---
