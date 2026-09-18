@@ -2,7 +2,7 @@
 
 This is a project of designing and assembling a custom laboratory benchtop power supply built inside a repurposed Corsair ATX power supply enclosure. It features an adjustable CNC 0–50V / 5A output stage, auxiliary 5V logic rails, dual 5V USB ports, and an autonomous MOSFET temperature-controlled cooling system.
 
-This is a very fun project in many ways; it felt like an adult version of LEGOs. Side-quest project for my 5DOFrobotic arm.
+This is a very fun project in many ways; it felt like an adult version of LEGOs. Side-quest project for my 5DOF robotic arm.
 
 
 <p align="center">
