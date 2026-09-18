@@ -34,7 +34,7 @@ Due to the modular approach and the reuse of standard off-the-shelf step-down mo
 
 ### 3D Printed & Mechanical Parts
 * **Enclosure:** Old Corsair ATX power supply case[cite: 1]. The original steel chassis provides rigid physical protection, integrated ventilation cutouts, and chassis grounding[cite: 1, 2].
-* **Front & Rear Panels:** 3D-printed faceplates (or CNC cut plywood) designed to mount into the original cable-exit opening of the PSU[cite: 1].
+* **Front, Side & Rear Panels:** 3D-printed faceplates (or plywood) designed to mount into the original cable-exit opening of the PSU[cite: 1].
   * *Filament choice:* PETG or ABS/ASA is recommended for heat resistance near internal heatsinks, though PLA works fine if airflow is kept decoupled.
   * *Print settings:* 4 perimeters/walls, 30–40% infill to firmly support tightening binding post nuts.
 
