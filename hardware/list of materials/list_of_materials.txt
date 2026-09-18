@@ -1,0 +1,68 @@
+Materials List & required parts:
+
+1. Old Corsair power supply unit: using as case and 12V fan
+ 
+2. Numerical Control DC 6-55V to 0-50V 5A Step Down Power Supply Module
+
+3. 180W AC to DC 100-240V AC to 36V 5A DC Step Down
+
+4. LM2596 Step-Down Buck Converter
+
+5. 5V 3A Dual USB output charging module
+
+6. 5V LM7805 voltage regulator
+
+7. White LED
+
+8. Green LED
+
+9. 0.33 µF Capacitor
+
+10. 0.1 µF Capacitor
+
+11. (x2) Dual position toggle switch with lever
+
+12. Electric connectors/ DC output plugs (as needed)
+
+13. Electrical wires: 14/20/32 AWG
+
+14. Soldering Iron and solder wire
+
+15. Plywood or 3d-printed parts (as needed)
+
+16. Prototyping boards
+
+15. Glue Gun
+
+-- For homemade MOSFET-based temperature controlled switch --
+
+1. 10k Ohm variable resistor 
+
+2. 10k thermistor
+
+3. IRFZ44N N-Chanel Mosfet 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
