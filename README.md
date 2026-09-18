@@ -1,11 +1,9 @@
 # DIY Benchtop Power Supply
 
-This is a project of designing and assembling a custom laboratory benchtop power supply built inside a repurposed Corsair ATX power supply enclosure[cite: 1]. It features an adjustable CNC 0–50V / 5A output stage[cite: 1], auxiliary 5V logic rails[cite: 1], dual USB ports[cite: 1], and an autonomous MOSFET temperature-controlled cooling system[cite: 1].
+This is a project of designing and assembling a custom laboratory benchtop power supply built inside a repurposed Corsair ATX power supply enclosure. It features an adjustable CNC 0–50V / 5A output stage, auxiliary 5V logic rails, dual 5V USB ports, and an autonomous MOSFET temperature-controlled cooling system.
 
-This is a very fun project in many ways, and it is intended for:
-* Electronics and robotics hobbyists looking for a reliable workbench power unit without spending a fortune.
-* Makers wanting to learn how to safely bridge high-voltage AC mains to isolated low-voltage DC rails[cite: 1].
-* Everyone with an old PC power supply unit (PSU) and the motivation to create something cool :D[cite: 1].
+This is a very fun project in many ways; it felt like an adult version of LEGOs. Side-quest project for my 5DOFrobotic arm.
+
 
 <p align="center">
   <img src="docs/images/banner.jpeg" width="750">
