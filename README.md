@@ -77,7 +77,7 @@ This is a very fun project in many ways; it felt like an adult version of LEGOs.
 The system architecture cleanly separates high-voltage input, variable high-power regulation, intermediate power distribution, and thermal management.
 
 <p align="center">
-  <img src="docs/schematics.jpg" width="750">
+  <img src="hardware/schematics/schematics.png" width="750">
 </p>
 
 ### 1. Mains AC Input & Primary Stage
