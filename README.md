@@ -96,7 +96,7 @@ The system architecture cleanly separates high-voltage input, variable high-powe
 * In parallel with the main output, the `36V` rail feeds the input of an **LM2596 buck converter**[cite: 2].
 * Adjust the onboard trimpot of the LM2596 until its output reads exactly `12.0V DC`[cite: 2]. This creates the internal auxiliary power bus[cite: 2].
 
-### 4. Temperature-Controlled Fan Circuit
+### 4. Temperature-Controlled Fan Circuit: [Circuit Youtube Link](https://youtu.be/iGzHso3EdJY?si=Qx0kQesTtO12RHpX)
 * To keep the bench supply dead-silent during light loads, the Corsair 12V fan is not driven continuously[cite: 1].
 * The **10k NTC thermistor** and the **10k variable resistor** form a voltage divider biasing the gate pin of the **IRFZ44N MOSFET**[cite: 1, 2]:
   * Drain (D) connects to the negative wire of the 12V fan[cite: 2].
@@ -116,7 +116,7 @@ The system architecture cleanly separates high-voltage input, variable high-powe
 
 > ⚠️ **DANGER: HIGH VOLTAGE**  
 > * Always double-check that the AC power cord is unplugged before touching internal components.
-> * Insulate all AC switch lugs and IEC terminals thoroughly with adhesive-lined heat-shrink tubing.
+> * Insulate all AC switch and terminals thoroughly with heat-shrink tubing.
 > * Ensure the metal enclosure is reliably grounded to the mains Earth wire (PE)[cite: 2].
 
 ---
