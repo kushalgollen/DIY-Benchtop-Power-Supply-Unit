@@ -3,7 +3,7 @@
 A modular laboratory bench power supply built by repurposing a legacy Corsair ATX power supply enclosure and fan, featuring digitally regulated 0–50V DC output, dedicated 5V fixed rails, dual USB charging, and an autonomous MOSFET-based temperature-controlled cooling system.
 
 <p align="center">
-  <img src="docs/images/banner.jpg" width="750">
+  <img src="docs/images/banner.jpeg" width="750">
 </p>
 
 ---
