@@ -117,7 +117,6 @@ The system architecture cleanly separates high-voltage input, variable high-powe
 ## Safety Guidelines
 
 > ⚠️ **DANGER: HIGH VOLTAGE**  
-> Mains AC voltage (`220V`) can cause severe electrical shock or death.
 > * Always double-check that the AC power cord is unplugged before touching internal components.
 > * Insulate all AC switch lugs and IEC terminals thoroughly with adhesive-lined heat-shrink tubing.
 > * Ensure the metal enclosure is reliably grounded to the mains Earth wire (PE)[cite: 2].
